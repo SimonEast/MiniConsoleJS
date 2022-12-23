@@ -61,7 +61,7 @@ You should ONLY use this during development, and should remove the `<script>` ta
 * https://www.npmjs.com/package/vconsole - another similar console
 * http://www.bagnall.co.uk/free_stuff/console/ - simple error log that shows in floating window that can be moved around
 * https://inspect.dev/ - commercial product with free 14 day trial
-
+* https://github.com/voidfiles/Node.js-Remote-Console.log - this pipes log errors from your device through to a remote PC running this NodeJS script
 
 
 ## Bugs and Pull Requests
