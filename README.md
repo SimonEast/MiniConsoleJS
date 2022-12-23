@@ -58,6 +58,7 @@ You should ONLY use this during development, and should remove the `<script>` ta
 ## Similar Projects
 
 * https://github.com/liriliri/eruda - much more advanced version
+* https://www.npmjs.com/package/vconsole - another similar console
 
 
 
