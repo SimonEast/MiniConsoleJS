@@ -55,6 +55,12 @@ You should ONLY use this during development, and should remove the `<script>` ta
 * It would be nice to be able to toggle the console open and closed. That functionality doesn't exist yet.
 
 
+## Similar Projects
+
+* https://github.com/liriliri/eruda - much more advanced version
+
+
+
 ## Bugs and Pull Requests
 
 I won't be spending a lot of time or attention on this script, but feel free to [submit bug reports](https://github.com/SimonEast/MiniConsoleJS/issues) and pull requests if you'd like to make an improvement. Feedback welcome.
